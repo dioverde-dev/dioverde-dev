@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on MK Solutions (https://www.mksolutions.com.br/)
 
-- 💬 Ask me about **JavaScript, HTML, CSS, SQL**
+- 💬 Ask me about **JavaScript, HTML, CSS, Node, Reactjs, Java, SQL**
 
 - 📫 How to reach me **dionisio.oliveira@gmail.com**
 
